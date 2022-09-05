@@ -1,0 +1,146 @@
+input:  Thôn Dục Túi 2, xã Dục Tú, huện Đôn9 Anh, Hà Nộ
+output: Thôn Dục Túi 2, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Lại Đà, xã Đông Hội, huyện Đông Anh, Thành phố Hà Nội 
+output: Thôn Lại Đà, Xã Đông Hội, Huyện Đông Anh, Thành phố Hà Nội
+input:  Số 1 ngách 29 ngõ Quỳnh, phố Bạch Mai, phường Thanh Nhân, quận Hai Bà Trưng, Hà Nội 
+output: Số 1 ngách 29 ngõ Quỳnh, phố Bạch Mai, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội
+input:  Đông Ngân, xã Đông Hội, huyện Đông Anh, Thành phố Hà Nội 
+output: Đông Ngân, Xã Đông Hội, Huyện Đông Anh, Thành phố Hà Nội
+input:  Thôn Đông Ngân, xã Đông Hội, huyện Đông Anh, Hà Nội 
+output: Thôn Đông Ngân, Xã Đông Hội, Huyện Đông Anh, Hà Nội
+input:  Thôn Đông Ngân, xã Đông Hội, huyện Đông Anh, Thành phố Hà Nội 
+output: Thôn Đông Ngân, Xã Đông Hội, Huyện Đông Anh, Thành phố Hà Nội
+input:  Thôn Đông Ngân, xã Đông Hôi, huyện Đông Anh, Thành phố Hà Nội 
+output: Thôn Đông Ngân, Xã Đông Hội, Huyện Đông Anh, Thành phố Hà Nội
+input:  Thôn Đông Ngàn, xã Đông Hội, huyện Đông Anh, Hà Nội 
+output: Thôn Đông Ngàn, Xã Đông Hội, Huyện Đông Anh, Hà Nội
+input:  Thôn Đông Ngân, xã Đông Hội, huyện Đông Anh, Thành phồ Hà Nội 
+output: Thôn Đông Ngân, Xã Đông Hội, Huyện Đông Anh, Thành phố Hà Nội
+input:  Thôn Đông Ngàn, xã Đông Hội, huyện Đông Anh, Hà Nội 
+output: Thôn Đông Ngàn, Xã Đông Hội, Huyện Đông Anh, Hà Nội
+input:  Thôn Phúc Hậu, Xã Dục Tù, Huyện Đông Anh, Hà Nội 
+output: Thôn Phúc Hậu, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng Đ9, Thôn Phúc Hậu, Xã Dục Tú, Huyện Đông Anh, Hà Nội 
+output: Xứ đồng Đ9, Thôn Phúc Hậu, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng Đ2, Thôn Phúc Hậu, Xã Dục Tú, Huyện Đông Anh, Hà Nội 
+output: Xứ đồng Đ2, Thôn Phúc Hậu, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Ngọc Lôi, xã Đạc Tú, huyện Đồng Anh, Hà Nội 
+output: Ngọc Lôi, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ Đông D1, thôn Ngọc Lôi, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ Đông D1, thôn Ngọc Lôi, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ Đồng B2, thôn Ngọc Lôi, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ Đồng B2, thôn Ngọc Lôi, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ Đồng A2, thôn Ngọc Lôi, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ Đồng A2, thôn Ngọc Lôi, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn I Lúc Hậu 1, xã Dục Tủ, huyện Đông Anh, đà Nội 
+output: Thôn I Lúc Hậu 1, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Phúc Hậu 1, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Thôn Phúc Hậu 1, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Đục Tú, xã Đục Tứ, huyện Đông Anh, Hà Nội 
+output: Thôn Đục Tú, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xử đồng A1, Thôn Ngọc Lôi, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xử đồng A1, Thôn Ngọc Lôi, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng A3, Ngọc Lôi, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng A3, Ngọc Lôi, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng D1, Ngọc Lôi, xã Dục Tú, huyệt Đông Anh, Hà Nội 
+output: Xứ đồng D1, Ngọc Lôi, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Dục Tú 2, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Thôn Dục Tú 2, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Dục Túi 2, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Thôn Dục Túi 2, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ Đồng Đ4 
+output: Xứ Đồng Đ4
+input:  Xú Đồng E7 
+output: Xú Đồng E7
+input:  Xứ Đồng K1 
+output: Xứ Đồng K1
+input:  Xử Đồng K7 
+output: Xử Đồng K7
+input:  Xứ Đồng K8 
+output: Xứ Đồng K8
+input:  Thôn Dục Tú 3, xã Dục Tú, huyện Đông Anh, Thành phố Hà Nội 
+output: Thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+input:  Xứ đồng H2, Thôn Dục Tú 3, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng H2, Thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng H9, Thôn Dục Tú 3, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng H9, Thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng K3, Thôn Dục Tú 3, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng K3, Thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Dục Tù 3, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Thôn Dục Tù 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng H3, Thôn Dục Tú 3, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng H3, Thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng V2, thôn Dục Tú 3 xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng V2, thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng K3, Thôn Dục Tú 3, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng K3, Thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Dục Tú 3, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng H4, Thôn Dục Tú 3, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng H4, Thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng H9, Thôn Dục Tú 3, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng H9, Thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng K3, Thôn Dục Tú 3, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng K3, Thôn Dục Tú 3, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Dục Tú 1, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Thôn Dục Tú 1, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ Đồng E4, Thôn Dục Tú 1, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ Đồng E4, Thôn Dục Tú 1, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ Đồng E3, Thôn Dục Tú 1, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ Đồng E3, Thôn Dục Tú 1, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Thạc Quá, xã Đục Tú, huyện Đông Anh, Hà Nội 
+output: Thôn Thạc Quá, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng C2, Thôn Thạc Quả, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng C2, Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng X2, Thôn Thạc Quả, xã Dụ Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng X2, Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Đình Trảng, xã Dục Tủ, huyện Đông Anh, Hà Nội 
+output: Thôn Đình Trảng, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xử Đồng Đ2, Thôn Đình Tú, huyện Đông Anh, Hà Nội 
+output: Xử Đồng Đ2, Thôn Đình Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng B8, Thôn Đình Tràng, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng B8, Thôn Đình Tràng, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng x4, Thôn Đình Tràng, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ đồng x4, Thôn Đình Tràng, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Đình Trăng, xã Dục Tũ, huyện Đông Anh, Hà Nội 
+output: Đình Trăng, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ Đồng D3, thôn Đình Tràng, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ Đồng D3, thôn Đình Tràng, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ Đồng B9, thôn Đình Tràng, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Xứ Đồng B9, thôn Đình Tràng, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Thôn Đình Trảng, xã Dục Tú, huyện Đông Anh, Hà Nội 
+output: Thôn Đình Trảng, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng A4, Thôn Đình Tràng, xã Dục Tú, huyện Đông Anh, Thành phố Hà Nội 
+output: Xứ đồng A4, Thôn Đình Tràng, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+input:  Xứ đồng x7, Thôn Đình Tràng, xã Dục Tú, huyện Đông Anh, Thành phố Hà Nội 
+output: Xứ đồng x7, Thôn Đình Tràng, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+input:  Xứ đồng x8, Thôn Đình Tràng, xã Dục Tú, huyện Đông Anh, Thành phố Hà Nội 
+output: Xứ đồng x8, Thôn Đình Tràng, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+input:  thôn Đình Trảng, xã Dục Tử, huyện Đông Anh, Hà Nội 
+output: thôn Đình Trảng, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Đinh Trăng, Dục Tú, Đông Anh, Hà Nội 
+output: Đinh Trăng, Dục Tú, Đông Anh, Hà Nội
+input:  Xứ Đồng D4 
+output: Xứ Đồng D4
+input:  Xứ Đồng A4 
+output: Xứ Đồng A4
+input:  Xứ Đồng X8 
+output: Xứ Đồng X8
+input:  Thôn Thạc Quả, Xã Dục Tù, Huyện Đông Anh, Thành phố Hà Nội
+output: Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+input:  Xứ đồng C3, Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội 
+output: Xứ đồng C3, Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+input:  Xứ đồng x2. Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội 
+output: Xứ đồng x2. Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+input:  Thôn Thạc Quả, Xã Đục Tù, Huyện Đông Anh, Thành phố Hà Nội 
+output: Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+input:  Xứ đồng C4, Thôn Phúc Hậu, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội 
+output: Xứ đồng C4, Thôn Phúc Hậu, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+input:  Xứ đồng D6, Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội 
+output: Xứ đồng D6, Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Thành phố Hà Nội
+input:  Thôn Thạc Quả, Xã Dục Tô, Huyện Đồng An, Hà Nội 
+output: Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đông C2, Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Hà Nội 
+output: Xứ đông C2, Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+input:  Xứ đồng x2, Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Hà Nội
+output: Xứ đồng x2, Thôn Thạc Quả, Xã Dục Tú, Huyện Đông Anh, Hà Nội
